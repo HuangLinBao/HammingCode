@@ -115,9 +115,7 @@ arr = calcParityBits(arr, r)
 # Data to be transferred
 print("Data transferred is " + arr)
 
-# Stimulate error in transmission by changing
-# a bit value.
-# 10101001110 -> 11101001110, error in 10th position.
+
 
 arr = input("Enter Recived Data: ")
 print("Error Data is " + arr)
