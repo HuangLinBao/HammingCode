@@ -98,7 +98,7 @@ def detectError(arr, nr):
     return int(str(res), 2)
 
 
-# Enter the data to be transmitted
+# Binary code is randomly generated
 data = rand_key(7)
 print(data)
 
